@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: learn2earn
+    runs-on: tunde
 
     steps:
       - name: Checkout code
